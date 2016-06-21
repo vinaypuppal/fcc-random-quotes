@@ -56,6 +56,7 @@ header h1{
 }
 
 .quote{
+  min-height: 80px;
   line-height: 30px;
   letter-spacing: 2px;
   font-size: 18px;
